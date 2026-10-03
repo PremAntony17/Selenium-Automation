@@ -1,1 +1,1 @@
-# Selenium-Automation
+Its my first automation project, featuring automated login, product selection, and add-to-cart functionality. Built to practice web automation and demonstrate basic UI testing workflows# Selenium-Automation
